@@ -11,34 +11,34 @@
 ---
 
 🌱 **I’m currently learning**  
-    - Advanced test automation patterns  
-    - Mobile app testing best practices  
-    - Continuous integration & delivery (CI/CD)
+  - Advanced test automation patterns  
+  - Mobile app testing best practices  
+  - Continuous integration & delivery (CI/CD)
 
 ---
 
 💼 **I’m currently building**  
-    - Building strong test portfolios on GitHub to showcase real-world testing projects – from full manual cycles to automation frameworks and performance testing with JMeter.
+  - Building strong test portfolios on GitHub to showcase real-world testing projects – from full manual cycles to automation frameworks and performance testing with JMeter.
 
 ---
 
 💞️ **I’m looking to collaborate on**  
-    - Open-source testing projects, bug hunts, or automation tasks where I can contribute structured and value-driven testing.
+  - Open-source testing projects, bug hunts, or automation tasks where I can contribute structured and value-driven testing.
 
 ---
 
 📫 **How to reach me**  
-    - [LinkedIn](https://www.linkedin.com/in/abdelrahman-abodief) | 📧 abdelrahman.abodief.a@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/abdelrahman-abodief) | 📧 abdelrahman.abodief.a@gmail.com
 
 ---
 
 🚀 **From Architecture to QA**   
-    - I transitioned from architectural design to software testing – bringing a sharp eye for detail, structure, and quality from buildings to bugs.
+  - I transitioned from architectural design to software testing – bringing a sharp eye for detail, structure, and quality from buildings to bugs.
 
 ---
 
 ⚡ **Side Projects**  
-    - I’ve published educational Android apps with 50,000+ downloads, and now I’m applying the same drive to quality in every piece of software I test.
+  - I’ve published educational Android apps with 50,000+ downloads, and now I’m applying the same drive to quality in every piece of software I test.
 
 ---
 
