@@ -6,7 +6,7 @@
 ---
 
 👀 **I’m interested in**  
-      - Quality assurance, automation frameworks, clean architecture, API performance testing, and exploring how software testing can improve real-world products.
+  - Quality assurance, automation frameworks, clean architecture, API performance testing, and exploring how software testing can improve real-world products.
 
 ---
 
