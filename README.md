@@ -13,6 +13,8 @@
 - Mobile app testing best practices  
 - Continuous integration & delivery (CI/CD)
 
+--
+
 💼 **I’m currently building**  
 - Building strong test portfolios on GitHub to showcase real-world testing projects – from full manual cycles to automation frameworks and performance testing with JMeter.
 
