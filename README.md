@@ -2,7 +2,6 @@
 
 🎯 **Software Tester (QA Engineer)** | **ISTQB Certified** (CTFL v4, CT-MAT)  
 🧪 ```Manual``` & ```Automation Testing | Java, Selenium``` & ```API Testing | Postman``` & ```Performance Testing | JMeter``` 
-🏆 DEPI Testing Competition Winner – Individual & Team Projects  
 
 ---
 
