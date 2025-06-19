@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Abdelrahman Abo-Dief (@Abdelrahman-AA)
+# 👋 Hi, I’m Abdelrahman Abodief (@Abdelrahman-AA)
 
-🎯 **Software Tester (QA Engineer)** | **ISTQB Certified** (CTFL v4, CT-MAT)  
-🧪 ```Manual``` & ```Automation Testing | Java, Selenium``` & ```API Testing | Postman``` & ```Performance Testing | JMeter``` 
+🎯 **Software Test Engineer ** | **ISTQB Certified** (CTFL v4, CT-MAT, CT-PT)  
+🧪 ```Manual``` & ```Automation Testing | Java, Selenium, TestNG``` & ```API Testing | Postman``` & ```Performance Testing | JMeter``` & ```CI/CD | Jenkins``` 
 
 ---
 
 👀 **I’m interested in**  
-  - Quality assurance, automation frameworks, clean architecture, API performance testing, and exploring how software testing can improve real-world products.
+  - Software testing, test automation frameworks, clean architecture, API and performance testing, and how structured testing improves product quality and user experience in real-world applications.
 
 ---
 
