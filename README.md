@@ -1,44 +1,54 @@
 # 👋 Hi, I’m Abdelrahman Abodief (@Abdelrahman-AA)
 
-🎯 **Software Test Engineer ** | **ISTQB Certified** (CTFL v4, CT-MAT, CT-PT)  
-🧪 ```Manual``` & ```Automation Testing | Java, Selenium, TestNG``` & ```API Testing | Postman``` & ```Performance Testing | JMeter``` & ```CI/CD | Jenkins``` 
+🎯 **QA Automation Engineer | ISTQB Certified (CTFL v4, CT-MAT, CT-PT)**  
+🧪 I build end-to-end test automation systems for web applications and APIs using Playwright, TypeScript, Selenium, and Java.
 
 ---
 
-👀 **I’m interested in**  
-  - Software testing, test automation frameworks, clean architecture, API and performance testing, and how structured testing improves product quality and user experience in real-world applications.
+👀 **I’m interested in**
+- Test automation architecture and framework design  
+- API & UI testing at scale  
+- CI/CD integration and quality engineering practices  
+- Performance and reliability testing  
 
 ---
 
-🌱 **I’m currently learning**  
-  - Advanced test automation patterns  
-  - Mobile app testing best practices  
-  - Continuous integration & delivery (CI/CD)
+🌱 **I’m currently learning**
+- Advanced automation architecture patterns  
+- Scalable test frameworks with Playwright  
+- DevOps integration for testing pipelines  
 
 ---
 
-💼 **I’m currently building**  
-  - Building strong test portfolios on GitHub to showcase real-world testing projects – from full manual cycles to automation frameworks and performance testing with JMeter.
+💼 **I’m currently building**
+- End-to-end automation frameworks covering UI, API, and data validation  
+- CI/CD-integrated testing pipelines using GitHub Actions  
+- Real-world testing projects for portfolio and production-level practice  
 
 ---
 
-💞️ **I’m looking to collaborate on**  
-  - Open-source testing projects, bug hunts, or automation tasks where I can contribute structured and value-driven testing.
+💞️ **I’m looking to collaborate on**
+- Open-source automation frameworks  
+- API testing projects  
+- CI/CD and quality engineering initiatives  
 
 ---
 
-📫 **How to reach me**  
-  - [LinkedIn](https://www.linkedin.com/in/abdelrahman-abodief) | 📧 abdelrahman.abodief.a@gmail.com
+📫 **How to reach me**
+- LinkedIn: https://www.linkedin.com/in/abdelrahman-abodief  
+- Email: abdelrahman.abodief.a@gmail.com  
 
 ---
 
-🚀 **From Architecture to QA**   
-  - I transitioned from architectural design to software testing – bringing a sharp eye for detail, structure, and quality from buildings to bugs.
+🚀 **From Architecture to QA Engineering**
+- I transitioned from architectural engineering to software quality engineering, bringing structured thinking, precision, and system design mindset into software testing.
 
 ---
 
-⚡ **Side Projects**  
-  - I’ve published educational Android apps with 50,000+ downloads, and now I’m applying the same drive to quality in every piece of software I test.
+⚡ **Side Projects**
+- Built Android applications with 50,000+ downloads  
+- Developed automation frameworks with Playwright, Selenium, and API testing suites  
+- Implemented CI/CD pipelines for automated test execution and reporting
 
 ---
 
