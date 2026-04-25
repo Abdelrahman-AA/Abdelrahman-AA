@@ -27,10 +27,10 @@ I design and build scalable testing solutions for complex systems, with a strong
 
 ## 🧪 Tech Stack
 
-**Automation:** Playwright (TS), Selenium (Java), TestNG, POM  
-**API & DB:** Postman, SQL, PostgreSQL  
-**Performance:** JMeter  
-**CI/CD:** GitHub Actions, Jenkins
+- **Automation:** Playwright (TS), Selenium (Java), TestNG, POM  
+- **API & DB:** Postman, SQL, PostgreSQL  
+- **Performance:** JMeter  
+- **CI/CD:** GitHub Actions, Jenkins
 
 **ISTQB Certified (CTFL v4, CT-MAT, CT-PT)**
 
