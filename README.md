@@ -121,7 +121,7 @@ Transitioned from **Architectural Engineering** to **Software QA**, bringing a f
 - 🏛️ **MBA in E-Business Management** &nbsp;  &nbsp; 🎓 **Bachelor of Engineering**
 
 - 🎗️ **ISTQB** &nbsp; ([CTFL v4](https://scr.istqb.org/?name=&number=240724001)  |  [CT-PT](https://scr.istqb.org/?name=&number=250313003)  |  [CT-MAT](https://scr.istqb.org/?number=250515005))
-- 🎖️ **(DEPI) Software Testing Track** - 🏆 **[1st Place Winner - DEPI Competition](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/README.md)**
+- 🎖️ **([DEPI](https://res.cloudinary.com/dmscfxymi/image/upload/v1777148511/DEPI_ug9tlh.jpg)) Software Testing Track** - 🏆 **[1st Place Winner - DEPI Competition](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/README.md)**
 - 🏅 **Scrum** &nbsp; ([SFC](https://www.scrumstudy.com/certification/verify?type=SFC&number=1043036)  |  [SODFC](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1011841))
 - ⚡ **Six Sigma Yellow Belt** &nbsp; ([SSYB](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=894098)) &nbsp;  &nbsp; 📅 **PMP 35 PDUs** &nbsp; ([PMP35](https://res.cloudinary.com/dmscfxymi/image/upload/v1777146681/PMP-35-PDUs_fexjzp.jpg))
 
