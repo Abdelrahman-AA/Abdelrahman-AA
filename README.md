@@ -8,22 +8,22 @@ I design and build scalable testing solutions for complex systems, with a strong
 
 ## 🛠️ Tech Stack & Tooling
 
-### **Test Automation**
+**Test Automation**  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **API & Database Testing**
+**API & Database Testing**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright API](https://img.shields.io/badge/Playwright_API-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Performance**
+**Performance**  
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### **DevOps CI / CD**
+**DevOps CI / CD**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
@@ -31,18 +31,18 @@ I design and build scalable testing solutions for complex systems, with a strong
 
 ## 🎓 Education & Professional Certifications
 
-### **Academic Background**
+**Academic Background**
 - 🎓 **MBA in E-Business Management**
 - 🎓 **Bachelor of Engineering**
 
-### **Core QA & Software Testing**
+**Core QA & Software Testing**
 - 🎖️ **[ISTQB CTFL v4](رابط_هنا)**
 - 🎖️ **[ISTQB Performance Testing (CT-PT)](رابط_هنا)**
 - 🎖️ **[ISTQB Mobile App Testing (CT-MAT)](رابط_هنا)**
 - 🏅 **[Digital Egypt Pioneers (DEPI)](رابط_هنا)**
 - 🏆 **[1st Place Winner - DEPI Competition](رابط_هنا)**
 
-### **Management & Agile Methodologies**
+**Management & Agile Methodologies**
 - ⚡ **[Scrum Fundamentals (SFC)](رابط_هنا)**
 - ⚡ **[Scrum for Ops & DevOps (SODFC)](رابط_هنا)**
 - 🎗️ **[Six Sigma Yellow Belt (SSYB)](رابط_هنا)**
