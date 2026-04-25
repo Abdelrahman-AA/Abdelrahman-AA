@@ -8,34 +8,11 @@ I build end-to-end testing systems focused on validating business logic, require
 
 ## Tech Stack & Tooling
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![TestNG](https://img.shields.io/badge/TestNG-FF5722?style=for-the-badge&logo=java&logoColor=white) 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-2088FF?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-
-**Playwright** &nbsp; **TypeScript** &nbsp; **Selenium** &nbsp; **Java** &nbsp; **TestNG** &nbsp; **JUnit** &nbsp; **Postman** &nbsp; **PostgreSQL** &nbsp; **SQL** &nbsp; **JMeter** &nbsp; **GitHub Actions** &nbsp; **Jenkins**
+**Playwright (TypeScript)** &nbsp; **Selenium (Java) (TestNG)** &nbsp; **JUnit** &nbsp; **Postman** &nbsp; **SQL** &nbsp; **PostgreSQL** &nbsp; **JMeter** &nbsp; **GitHub Actions** &nbsp; **Jenkins** 
 
 ---
 
 ## What I Do
-
-![Automation](https://img.shields.io/badge/Test_Automation-323330?style=for-the-badge&logo=robotframework&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-323330?style=for-the-badge&logo=testcafe&logoColor=white)
-![UI Testing](https://img.shields.io/badge/UI_Testing-8E44AD?style=for-the-badge&logo=monitor&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![DB Testing](https://img.shields.io/badge/DB_Testing-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Load Testing](https://img.shields.io/badge/Load_Testing-FFA500?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Stress Testing](https://img.shields.io/badge/Stress_Testing-B22222?style=for-the-badge&logo=speedtest&logoColor=white)
 
 - Build end-to-end automation frameworks using Playwright (TypeScript) and Selenium (Java)
 - Validate APIs and backend systems (Postman, SQL, PostgreSQL)
