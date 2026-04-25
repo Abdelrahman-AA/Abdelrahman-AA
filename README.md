@@ -45,24 +45,30 @@ I design and build scalable testing solutions for complex systems, with a strong
 
 ---
 
-## 📫 Contact
+## 📱 Legacy Work (Mobile Development)
+*Developed and published 5+ production-grade applications reaching 50k+ downloads.*
 
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-abodief)
-- [Email](abdelrahman.abodief.a@gmail.com)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+
+- [Letters and Animals for Kids](https://github.com/Abdelrahman-AA/Letters_and_Animals_for_Kids)
+- [Colors Learning for Kids](https://github.com/Abdelrahman-AA/Colors_Learning_for_Kids)
+- [Secret Note (AES-256 Encrypted)](https://github.com/Abdelrahman-AA/Secret_Note)
 
 ---
 
-## 📱 Previous Experience (Android Development)
-
-- Developed and published 5+ applications using Flutter & Dart
-- Achieved 50,000+ downloads with strong user ratings
-- Built secure and data-driven apps using SQLite and local storage
+## 🔄 The Pivot (Engineering Precision)
+Transitioned from **Architectural Engineering** to **Software QA**, bringing a foundation of analytical thinking, root cause analysis, and structural precision into the software testing lifecycle.
 
 ---
 
-## 🔄 Background
-
-Transitioned from Architectural Engineering to Software QA, bringing structured problem-solving, system thinking, and precision into software quality engineering.
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abodief)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.abodief.a@gmail.com)
 
 ---
 
