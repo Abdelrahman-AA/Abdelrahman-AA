@@ -52,6 +52,14 @@ I design and build scalable testing solutions for complex systems, with a strong
 
 ---
 
+## 📱 Previous Experience (Android Development)
+
+- Developed and published 5+ applications using Flutter & Dart
+- Achieved 50,000+ downloads with strong user ratings
+- Built secure and data-driven apps using SQLite and local storage
+
+---
+
 ## 🔄 Background
 
 Transitioned from Architectural Engineering to Software QA, bringing structured problem-solving, system thinking, and precision into software quality engineering.
