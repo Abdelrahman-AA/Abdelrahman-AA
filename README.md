@@ -1,54 +1,60 @@
-# 👋 Hi, I’m Abdelrahman Abodief (@Abdelrahman-AA)
+# 👋 Hi, I’m Abdelrahman Abodief
 
-🎯 **QA Automation Engineer | ISTQB Certified (CTFL v4, CT-MAT, CT-PT)**  
-🧪 I build end-to-end test automation systems for web applications and APIs using Playwright, TypeScript, Selenium, and Java.
+🎯 **QA Engineer | Automation, API, DB & Performance Testing**
 
----
-
-👀 **I’m interested in**
-- Test automation architecture and framework design  
-- API & UI testing at scale  
-- CI/CD integration and quality engineering practices  
-- Performance and reliability testing  
+I design and build scalable testing solutions for complex systems, with a strong focus on backend validation, fintech logic, and CI/CD integration.
 
 ---
 
-🌱 **I’m currently learning**
-- Advanced automation architecture patterns  
-- Scalable test frameworks with Playwright  
-- DevOps integration for testing pipelines  
+## 🔧 What I Do
+
+- Build end-to-end automation frameworks using Playwright (TypeScript) and Selenium (Java)
+- Validate APIs and backend systems (Postman, SQL, PostgreSQL)
+- Design CI/CD pipelines for automated testing, reporting, and issue tracking
+- Perform performance and load testing (JMeter) up to 5,000 concurrent users
+- Apply shift-left testing for early defect detection in data and business logic layers
 
 ---
 
-💼 **I’m currently building**
-- End-to-end automation frameworks covering UI, API, and data validation  
-- CI/CD-integrated testing pipelines using GitHub Actions  
-- Real-world testing projects for portfolio and production-level practice  
+## 📊 Impact Highlights
+
+- Identified **170+ defects** in a full-scale E-commerce QA audit (including critical payment issues)
+- Executed **1000+ data-driven test scenarios** for fintech transaction validation
+- Built automation pipelines with **GitHub Actions (CI/CD + reporting + issue generation)**
+- Conducted load & stress testing up to **5,000 users**, identifying system breaking points
 
 ---
 
-💞️ **I’m looking to collaborate on**
-- Open-source automation frameworks  
-- API testing projects  
-- CI/CD and quality engineering initiatives  
+## 🧪 Tech Stack
+
+**Automation:** Playwright (TS), Selenium (Java), TestNG, POM  
+**API & DB:** Postman, SQL, PostgreSQL  
+**Performance:** JMeter  
+**CI/CD:** GitHub Actions, Jenkins
+
+**ISTQB Certified (CTFL v4, CT-MAT, CT-PT)**
 
 ---
 
-📫 **How to reach me**
-- LinkedIn: https://www.linkedin.com/in/abdelrahman-abodief  
-- Email: abdelrahman.abodief.a@gmail.com  
+## 🚀 Featured Work
+
+- End-to-End Fintech Automation Framework (UI + API + CI/CD)
+- Banking System Testing (UI, API, Performance, Team Lead)
+- Fintech Database Testing (Shift-left DB validation on Neon)
+- E-commerce QA Audit (Full system validation + business analysis)
 
 ---
 
-🚀 **From Architecture to QA Engineering**
-- I transitioned from architectural engineering to software quality engineering, bringing structured thinking, precision, and system design mindset into software testing.
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-abodief)
+- [Email](abdelrahman.abodief.a@gmail.com)
 
 ---
 
-⚡ **Side Projects**
-- Built Android applications with 50,000+ downloads  
-- Developed automation frameworks with Playwright, Selenium, and API testing suites  
-- Implemented CI/CD pipelines for automated test execution and reporting
+## 🔄 Background
+
+Transitioned from Architectural Engineering to Software QA, bringing structured problem-solving, system thinking, and precision into software quality engineering.
 
 ---
 
