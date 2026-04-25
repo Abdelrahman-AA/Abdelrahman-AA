@@ -36,17 +36,17 @@ I design and build scalable testing solutions for complex systems, with a strong
 - 🎓 **Bachelor of Engineering**
 
 **Core QA & Software Testing**
-- 🎖️ **[ISTQB CTFL v4](رابط_هنا)**
-- 🎖️ **[ISTQB Performance Testing (CT-PT)](رابط_هنا)**
-- 🎖️ **[ISTQB Mobile App Testing (CT-MAT)](رابط_هنا)**
-- 🏅 **[Digital Egypt Pioneers (DEPI)](رابط_هنا)**
-- 🏆 **[1st Place Winner - DEPI Competition](رابط_هنا)**
+- 🎖️ **[ISTQB CTFL v4](https://scr.istqb.org/?name=&number=240724001)**
+- 🎖️ **[ISTQB Performance Testing (CT-PT)](https://scr.istqb.org/?name=&number=250313003)**
+- 🎖️ **[ISTQB Mobile App Testing (CT-MAT)](https://scr.istqb.org/?number=250515005)**
+- 🏅 **[Digital Egypt Pioneers (DEPI)]()**
+- 🏆 **[1st Place Winner - DEPI Competition](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/README.md)**
 
 **Management & Agile Methodologies**
-- ⚡ **[Scrum Fundamentals (SFC)](رابط_هنا)**
-- ⚡ **[Scrum for Ops & DevOps (SODFC)](رابط_هنا)**
-- 🎗️ **[Six Sigma Yellow Belt (SSYB)](رابط_هنا)**
-- 📅 **[PMP 35 PDUs](رابط_هنا)**
+- ⚡ **[Scrum Fundamentals (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1043036)**
+- ⚡ **[Scrum for Ops & DevOps (SODFC)](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1011841)**
+- 🎗️ **[Six Sigma Yellow Belt (SSYB)](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https:/c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-AbdelrahmanAboudief-894098.pdf)**
+- 📅 **[PMP 35 PDUs]()**
 
 ---
 
