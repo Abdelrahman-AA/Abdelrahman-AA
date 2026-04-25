@@ -45,7 +45,7 @@ I design and build scalable testing solutions for complex systems, with a strong
 **Management & Agile Methodologies**
 - ⚡ **[Scrum Fundamentals (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1043036)**
 - ⚡ **[Scrum for Ops & DevOps (SODFC)](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1011841)**
-- 🎗️ **[Six Sigma Yellow Belt (SSYB)](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https:/c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-AbdelrahmanAboudief-894098.pdf)**
+- 🎗️ **[Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=894098)**
 - 📅 **[PMP 35 PDUs]()**
 
 ---
@@ -57,15 +57,6 @@ I design and build scalable testing solutions for complex systems, with a strong
 - Design CI/CD pipelines for automated testing, reporting, and issue tracking
 - Perform performance and load testing (JMeter) up to 5,000 concurrent users
 - Apply shift-left testing for early defect detection in data and business logic layers
-
----
-
-## 📊 Impact Highlights
-
-- Identified **170+ defects** in a full-scale E-commerce QA audit (including critical payment issues)
-- Executed **1000+ data-driven test scenarios** for fintech transaction validation
-- Built automation pipelines with **GitHub Actions (CI/CD + reporting + issue generation)**
-- Conducted load & stress testing up to **5,000 users**, identifying system breaking points
 
 ---
 
