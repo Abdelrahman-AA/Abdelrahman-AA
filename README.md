@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Abdelrahman Abodief
+# Abdelrahman Abodief
 
-🎯 **QA Engineer | Automation, API, DB & Performance Testing**
+**QA Engineer | Automation, API, DB & Performance Testing**
 
 I build end-to-end testing systems focused on validating business logic, requirements, and data integrity across complex applications, using automation frameworks and CI/CD pipelines.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ I build end-to-end testing systems focused on validating business logic, require
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
 ![Automation](https://img.shields.io/badge/Test_Automation-323330?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-323330?style=for-the-badge&logo=testcafe&logoColor=white)
@@ -45,7 +45,7 @@ I build end-to-end testing systems focused on validating business logic, require
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 - **End-to-End Fintech Automation Framework (UI + API + CI/CD)** &nbsp; [(repo)](https://github.com/Abdelrahman-AA/ParaBank-E2E-API-Automation)
   --
@@ -117,7 +117,7 @@ I build end-to-end testing systems focused on validating business logic, require
 
 ---
 
-## 📱 Legacy Work (Mobile Development)
+## Legacy Work (Mobile Development)
 *Developed and published 5+ production-grade applications reaching 50k+ downloads.*
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -133,20 +133,20 @@ I build end-to-end testing systems focused on validating business logic, require
 
 ---
 
-## 🔄 The Pivot (Engineering Precision)
+## The Pivot (Engineering Precision)
 Transitioned from **Architectural Engineering** to **Software QA**, bringing a foundation of analytical thinking, root cause analysis, and structural precision into the software testing lifecycle.
 
 ---
 
-## 🎓 Education & Professional Certifications
+## Education & Professional Certifications
 
 
-- 🏛️ **MBA in E-Business Management** - 🎓 **Bachelor of Engineering**
+- 🏛️ **MBA in E-Business Management** &nbsp;  &nbsp; 🎓 **Bachelor of Engineering**
 
-- 🎗️ **ISTQB** &nbsp; ([CTFL v4](https://scr.istqb.org/?name=&number=240724001)  &nbsp;|&nbsp;  [CT-PT](https://scr.istqb.org/?name=&number=250313003)  &nbsp;|&nbsp;  [CT-MAT](https://scr.istqb.org/?number=250515005))
+- 🎗️ **ISTQB** &nbsp; ([CTFL v4](https://scr.istqb.org/?name=&number=240724001)  |  [CT-PT](https://scr.istqb.org/?name=&number=250313003)  |  [CT-MAT](https://scr.istqb.org/?number=250515005))
 - 🎖️ **(DEPI) Software Testing Track** - 🏆 **[1st Place Winner - DEPI Competition](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/README.md)**
-- ⚡🏅 **Scrum** &nbsp; ([SFC](https://www.scrumstudy.com/certification/verify?type=SFC&number=1043036)  &nbsp;|&nbsp;  [SODFC](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1011841))
-- ⚡ **Six Sigma Yellow Belt** &nbsp; [SSYB](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=894098) - 📅 **PMP 35 PDUs** &nbsp; [PMP35]()
+- 🏅 **Scrum** &nbsp; ([SFC](https://www.scrumstudy.com/certification/verify?type=SFC&number=1043036)  |  [SODFC](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1011841))
+- ⚡ **Six Sigma Yellow Belt** &nbsp; ([SSYB](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=894098)) &nbsp;  &nbsp; 📅 **PMP 35 PDUs** &nbsp; ([PMP35]())
 
 ---
 
