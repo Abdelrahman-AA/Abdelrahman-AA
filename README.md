@@ -27,7 +27,7 @@ I build end-to-end testing systems focused on validating business logic, require
 - **End-to-End Fintech Automation Framework (UI + API + CI/CD)** &nbsp; [(repo)](https://github.com/Abdelrahman-AA/ParaBank-E2E-API-Automation)
   --
   
-<p align="left">
+<p style="display: flex; flex-wrap: wrap; gap: 4px; align-items: center;">
   <img src="https://img.shields.io/badge/UI_Testing-8E44AD?style=for-the-badge&logo=monitor&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Test_Automation-323330?style=for-the-badge&logo=robotframework&logoColor=white" />
