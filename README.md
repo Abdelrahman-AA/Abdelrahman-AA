@@ -27,7 +27,15 @@ I build end-to-end testing systems focused on validating business logic, require
 - **End-to-End Fintech Automation Framework (UI + API + CI/CD)** &nbsp; [(repo)](https://github.com/Abdelrahman-AA/ParaBank-E2E-API-Automation)
   --
   
-![UI Testing](https://img.shields.io/badge/UI_Testing-8E44AD?style=for-the-badge&logo=monitor&logoColor=white) ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Automation](https://img.shields.io/badge/Test_Automation-323330?style=for-the-badge&logo=robotframework&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-2088FF?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/UI_Testing-8E44AD?style=for-the-badge&logo=monitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test_Automation-323330?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Issues-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
     - Built unified UI & API automation framework (Playwright) using POM + Component + Action-based architecture
     - Delivered 16 UI scenarios (153 tests) and 19 API scenarios (72 tests) for end-to-end validation
